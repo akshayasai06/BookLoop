@@ -1,0 +1,13 @@
+target/
+bin/
+*.class
+*.jar
+.idea/
+.vscode/
+*.log
+.env
+db.properties
+surefire-reports/
+test-classes/
+maven-status/
+maven-archiver/
